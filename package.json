@@ -1,0 +1,24 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderyyx/tsGrammar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderyyx/tsGrammar/issues"
+  },
+  "homepage": "https://github.com/coderyyx/tsGrammar#readme",
+  "devDependencies": {
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2"
+  }
+}
