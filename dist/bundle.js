@@ -79,7 +79,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var React = __webpack_require__(0);
 var ReactDOM = __webpack_require__(2);
 var hello_1 = __webpack_require__(3);
-ReactDOM.render(React.createElement(hello_1.Hello, { compiler: "TypeScript", framework: "React" }), document.getElementById("example"));
+ReactDOM.render(React.createElement(hello_1.Hello, { compiler: "TypeScript", framework: "TS" }), document.getElementById("example"));
 // class MyClass extends React.Component<any, any> {
 //     render() {
 //         return <h1>hello {this.props.name}</h1>;  

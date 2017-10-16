@@ -4,7 +4,7 @@ import * as ReactDOM from "react-dom";
 import { Hello } from "./components/hello";
 
 ReactDOM.render(
-    <Hello compiler="TypeScript" framework="React" />,
+    <Hello compiler="TypeScript" framework="TS" />,
     document.getElementById("example") as HTMLElement
 );
 // class MyClass extends React.Component<any, any> {
